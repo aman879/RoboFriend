@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Joyboy Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Joyboy Regular"), url("Joyboy.woff") format("woff");
+}
+
+h2 {
+  font-family: "Joyboy Regular";
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.rounded-input {
+  border-radius: 60px; /* Adjust the value as per your preference */
+}
+
+.my-input {
+  font-family: "Joyboy Regular";
+}
